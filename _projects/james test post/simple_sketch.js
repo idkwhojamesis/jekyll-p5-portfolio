@@ -11,7 +11,7 @@ var moveRate = 10;
 
 function setup() {
   canvas = createCanvas(400, 400);
-  canvas.parent('simple-sketch-holder"')
+  canvas.parent('simple-sketch-holder')
   textSize(18);
   // Setting text box size (x2, y2) in proportion to the Canvas dimensions 'width' and 'height', so it resizes properly if the Canvas gets resized. See its usage in lyricBox inside draw().
   textBoxWidth = width * 0.9;
