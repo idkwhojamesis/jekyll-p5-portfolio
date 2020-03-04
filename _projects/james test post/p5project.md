@@ -9,7 +9,7 @@ dependencies:
 
 
 <div id="simple-sketch-holder">
-    <script type="text/javascript" src="simple_sketch.js"></script>
+    <script type="text/javascript" src="./simple_sketch.js"></script>
 </div>
 
 code:
